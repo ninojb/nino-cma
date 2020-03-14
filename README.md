@@ -4,7 +4,7 @@ Car Maintenance App Repository. The aim of this repo is to have a logical place 
 
 # Instructions on adding this repo to the project
 
-- **Clone this repo in a folder under the project**
+- **Clone this repo in the root directory of the project**
 
 - **Add package directory to project**
 
